@@ -26,7 +26,7 @@ import numpy as np
 
 fake = Faker('en_IN')
 
-host = '192.168.6.130'
+host = '192.168.0.158'
 user_db = 'root'
 password_db = 'Novi1234'
 db = 'attendance'
